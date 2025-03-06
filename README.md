@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles.
+Dotfiles for personal use.
